@@ -6,8 +6,3 @@ This event is led by Imane Berchane (2024-2025 Obama Scholar, Columbia Universit
 
 **This repository contains the following materials:**
   1. empowering-youth-in-morocco.pdf: &ensp; PDF of slides guiding the talk
-
-**For quick access to resources & links from this workshop, please see below:**
-  1. [Plant Mate mobile app prototype](https://www.figma.com/proto/pk0xMhCvdZG5oJlWaJJgvH/PlantMate_Prototype?node-id=297-562&node-type=canvas&t=DFmZA1XO2Bb8d09R-0&scaling=scale-down&content-scaling=fixed&page-id=39%3A135&starting-point-node-id=297%3A562&show-proto-sidebar=1)
-  2. [Figma](https://www.figma.com)
-  3. [ChatGPT](https://chat.openai.com)
